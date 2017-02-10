@@ -23,7 +23,7 @@ Set up a basic angular app and a controller.  Test to make sure everything is wo
 The first step whenever you're setting up an Angular App is to set up your foundation then check if your controller is tied to the view as it should be.
 * Create an index.html and a style.css file
 * Create a folder called js
-* In the js folder, create an app.js, dataService.js, and a mainCtrl.js file
+* In the js folder, create an app.js, service.js, and a controller.js file
 * Link your style.css sheet and your js files to your index.html page
 * In your index.html file create the basic structure of your html
   - Bootstrap your app with ```ng-app="quoteBook"```.

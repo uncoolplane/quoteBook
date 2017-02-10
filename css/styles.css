@@ -1,0 +1,83 @@
+@import ("reset.css");
+
+.white {
+  background-color: #FCFCFC;
+}
+
+.pink {
+  background-color: #F7567C;
+}
+
+.yellow {
+  background-color: #FFFAE3;
+}
+
+.green {
+  background-color: #99E1D9;
+}
+
+.purple {
+  background-color: #5D576B;
+}
+
+.inline {
+  display: inline-block;
+}
+
+body {
+  box-sizing: border-box;
+  font-family: sans-serif;
+  background-color:#FCFCFC;
+}
+
+.container {
+  padding: 1em 2em;
+  margin: 10px 20px;
+}
+
+.btn {
+  border-radius: 10px;
+  font-family: inherit;
+  color: #ffffff;
+  font-size: 14px;
+  background: #5D576B;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #99E1D9;
+  text-decoration: none;
+}
+
+.quotes {
+  border: 1px solid gray;
+  border-radius: 5px;
+  padding: 1em 2em;
+  margin: 20px 0;
+}
+
+.quote-actions {
+  margin-top: 20px;
+}
+
+form {
+  border: 1px solid gray;
+}
+
+form div {
+  padding: 1em 2em;
+  margin: 10px 0;
+}
+
+form input {
+  width: 80%;
+}
+
+form label {
+  margin-right: 1em;
+}
+
+.favorite {
+    background-color: #5D576B;
+}
